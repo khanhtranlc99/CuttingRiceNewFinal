@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40849097401",
+    "project_id": "cutrice",
+    "storage_bucket": "cutrice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40849097401:android:e0ca70651b594b97239168",
+        "android_client_info": {
+          "package_name": "com.SStudio.CutRice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40849097401-n4gscqtfsuf0mohu376qoah4e4dbfdgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpUTD0PfIr6ZK2o38Pz1ccNzaTJsgFL8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40849097401-n4gscqtfsuf0mohu376qoah4e4dbfdgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
